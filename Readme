@@ -1,8 +1,5 @@
-VfYBocZolqySUM38
 
 
 
-piyushd
-v0lV0eZYcEY9yez1
-
-mongodb+srv://piyushd:v0lV0eZYcEY9yez1@cluster0.e3dawnx.mongodb.net/
+difference between req.body , req.params, res.query
+https://dev.to/gathoni/express-req-params-req-query-and-req-body-4lpc
