@@ -1,4 +1,9 @@
 
+In the app.js file import the routes file and set the app.use("route_path",path_of_the_routes)
+
+
+
+
 
 
 difference between req.body , req.params, res.query
